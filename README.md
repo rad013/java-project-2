@@ -12,28 +12,28 @@ The project is written in java and uses object-oriented programming principles. 
 
 **Home Page**
 
-![image](https://github.com/rad013/java-project-2/assets/115696959/2edbabf8-a3e4-4f9e-b19a-8d517ac85682)
+![image](https://i.imgur.com/Zig5DNz.png)
 
 **Login Page**
 
-![image](https://github.com/rad013/java-project-2/assets/115696959/ef1fa3de-fce4-4d42-b1bb-593695faec70)
+![image](https://i.imgur.com/RFNx6hd.png)
 
 **Register Page**
 
-![image](https://github.com/rad013/java-project-2/assets/115696959/bbc04c23-f0c6-4aac-a149-0860198ea241)
+![image](https://i.imgur.com/i7VDzrv.png)
 
 **Main Page**
 
-![image](https://github.com/rad013/java-project-2/assets/115696959/94812e86-0573-427f-be45-b6f2a2a02e81)
+![image](https://i.imgur.com/WQCf9D7.png)
 
 **Play Page**
 
-![image](https://github.com/rad013/java-project-2/assets/115696959/0ba84dd0-e6e3-4841-81da-c67202b62bfc)
+![image](https://i.imgur.com/ACQN1Tq.png)
 
 **Upgrade Page**
 
- ![image](https://github.com/rad013/java-project-2/assets/115696959/941961c4-30a8-441d-94f3-298cbe2c7df9)
+ ![image](https://i.imgur.com/T0olIkd.png)
 
 **Scoreboard Page**
 
-![image](https://github.com/rad013/java-project-2/assets/115696959/008dcb07-1d95-4b2f-a19a-7f0ab3c742e7)
+![image](https://i.imgur.com/4DzejvO.png)
